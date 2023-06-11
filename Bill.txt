@@ -1,0 +1,6 @@
+ProductID	ProductName	Quantity	Price
+1	iPhone12	1	10000
+Total - 10000
+ProductID	ProductName	Quantity	Price
+1	iPhone12	1	10000
+Total - 10000
