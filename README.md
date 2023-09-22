@@ -1,5 +1,5 @@
-# OnlineStore IMT2021018
-
+# OnlineStore 
+Vineet Priyedarshi
 An online store implemented using system calls and Linux programming in C.
 
 This is an online shopping system that allows customers to browse products, add them to their shopping cart, and place orders. The system consists of a client-server architecture where clients interact with the server to perform various operations.
